@@ -56,14 +56,14 @@ some rules about writing read me
 ###只是显示百度的图片
 ![baidu-images](http://www.baidu.com/img/bdlogo.png "baidu")  
 
-###只是显示图片，这里用的是相对路径
+### 只是显示图片，这里用的是相对路径
 ![github-01.jpg](/images/github-01.jpg "github-01.jpg")
 
 ### 显示图片也可以用原生的html标签
 >相对路径:<br /> <img src="/images/github-01.jpg" /> <br />
 >绝对路径:<br /> <img src="https://github.com/aszhaoweiguo/Markdown-Demo/blob/master/images/github-01.jpg" /> <br />
 
-###想点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com
+### 想点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com
 [![image](/images/github-02.jpg "github-02.jpg")](http://www.github.com/)
 
 ### 文字被些字符包围
