@@ -1,6 +1,9 @@
 # Markdown-Demo
 some rules about writing read me
 
+Sources: https://github.com/guoyunsky/Markdown-Chinese-Demo
+fix some bugs from original files.
+
 针对中文,演示Markdown的各种语法
   
 大标题
