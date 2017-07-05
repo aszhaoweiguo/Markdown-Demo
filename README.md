@@ -60,7 +60,8 @@ some rules about writing read me
 ![github-01.jpg](/images/github-01.jpg "github-01.jpg")
 
 ### 显示图片也可以用原生的html标签
-<img src="https://github.com/aszhaoweiguo/Basic-Concepts/blob/master/images/github-01.jpg" /> <br />
+>相对路径:<br /> <img src="/images/github-01.jpg" /> <br />
+>绝对路径:<br /> <img src="https://github.com/aszhaoweiguo/Markdown-Demo/blob/master/images/github-01.jpg" /> <br />
 
 ###想点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com
 [![image](/images/github-02.jpg "github-02.jpg")](http://www.github.com/)
